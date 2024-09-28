@@ -1,0 +1,85 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.app {
+  min-width: 450px;
+  padding: 1.2rem;
+  background-color: #00ffa6;
+  border-radius: 0.5rem;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.app-heading {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+.search-form {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.search-box {
+  height: 1.7rem;
+  width: 15rem;
+  border: 2px solid #333;
+  outline: none;
+}
+
+.submit-btn {
+  color: #fff;
+  background-color: #333;
+  padding: 0.5rem 1.2rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 0.4rem;
+  cursor: pointer;
+}
+
+.loading,
+.place {
+  font-size: 1.7rem;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 1.5rem;
+  margin-bottom: 0.2rem;
+}
+
+.date {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 0.5rem;
+  margin-bottom: 0.3rem;
+}
+
+.temp {
+  margin: 0.5rem;
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.cloud-info {
+  margin-top: 0.15rem;
+  font-size: 1.25rem;
+}
+
+.other-info {
+  margin: 0.5rem;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.humidity,
+.wind-speed {
+  display: flex;
+  gap: 0.5rem;
+  flex-direction: column;
+  font-size: 1.1rem;
+}
