@@ -14,7 +14,7 @@ body {
 
 /* App Container Styles */
 .app {
-  background-color: #fffd9;
+  background-color: #ffffffd9;
   border-radius: 1rem;
   padding: 2rem;
   width: 350px;
@@ -88,7 +88,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top : 0;
+  margin-top: 0;
   margin-bottom: 0.7rem;
 }
 
@@ -107,7 +107,7 @@ body {
 .weather-info {
   display: flex;
   justify-content: space-around;
-  background-color: #fffb3;
+  background-color: #ffffffb3;
   border-radius: 0.5rem;
   padding: 0.5rem;
 }
@@ -119,7 +119,7 @@ body {
 }
 
 .mid-line {
-  border-right: 1.5px solid #bdbbbb;
+  border-right: 1.5px solid #b9b9b9;
 }
 
 .humidity span,
