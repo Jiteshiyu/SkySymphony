@@ -21,7 +21,7 @@ export default function Search({ getWeather }) {
         onChange={(event) => setCity(event.target.value)}
       />
       <button className="submit-btn" type="submit">
-        Get Weather
+        Search
       </button>
     </form>
   );
