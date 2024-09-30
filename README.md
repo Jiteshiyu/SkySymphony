@@ -19,7 +19,6 @@ This is a weather app built with React.js that allows users to get current weath
 - [How It Works](#how-it-works)
 - [Future Improvements](#future-improvements)
 - [Challenges and Learnings](#challenges-and-learnings)
-- [Contributing](#contributing)
 
 ## Demo
 
@@ -81,10 +80,10 @@ Ensure that **Node.js** and **npm** are installed on your machine. If not, you c
 
 The SkySymphony Weather App uses the OpenWeatherMap API to fetch and display real-time weather data for any city.
 
-1. Fetching Weather Data: The app uses Axios to send a GET request to the OpenWeatherMap API, retrieving data such as temperature, humidity, wind speed, and weather conditions.
-2. Search Functionality: Users can type in the name of a city in the input box and click the "Get Weather" button to retrieve the weather information for that location.
-3. Displaying Data: The app shows the temperature in Celsius, the weather description (e.g., clear sky), the humidity percentage, and the wind speed in meters per second.
-4. Default Weather: On page load, the weather for London is automatically fetched and displayed.
+1. **Fetching Weather Data:** The app uses Axios to send a GET request to the OpenWeatherMap API, retrieving data such as temperature, humidity, wind speed, and weather conditions.
+2. **Search Functionality:** Users can type in the name of a city in the input box and click the "Get Weather" button to retrieve the weather information for that location.
+3. **Displaying Data:** The app shows the temperature in Celsius, the weather description (e.g., clear sky), the humidity percentage, and the wind speed in meters per second.
+4. **Default Weather:** On page load, the weather for London is automatically fetched and displayed.
 
 ## Future Improvements
 
@@ -95,19 +94,9 @@ The SkySymphony Weather App uses the OpenWeatherMap API to fetch and display rea
 
 ## Challenges and Learnings
 
-- API Integration: Integrating the OpenWeatherMap API was a key challenge, particularly learning how to handle asynchronous data fetching and updating the UI in real time.
-- State Management: Using React's `useState` and `useEffect` hooks effectively to manage and update weather data on user input was a great learning experience.
-- Responsiveness: Designing a clean and responsive user interface helped in understanding CSS layouts and how to make them adaptable to different screen sizes.
-
-## Contributing
-
-Contributions are welcome! If you have any ideas for new features or improvements, feel free to submit a pull request or open an issue.
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a pull request
+- **API Integration:** Integrating the OpenWeatherMap API was a key challenge, particularly learning how to handle asynchronous data fetching and updating the UI in real time.
+- **State Management:** Using React's `useState` and `useEffect` hooks effectively to manage and update weather data on user input was a great learning experience.
+- **Responsiveness:** Designing a clean and responsive user interface helped in understanding CSS layouts and how to make them adaptable to different screen sizes.
 
 ## Support
 If you liked the project, give it a 🌟 on the repo!
