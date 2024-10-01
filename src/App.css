@@ -1,4 +1,4 @@
-/* General Styles */
+/* Body Styles */
 body {
   margin: 0;
   padding: 0;
@@ -12,7 +12,7 @@ body {
   background-size: cover;
 }
 
-/* App Container Styles */
+/* App Styles */
 .app {
   background-color: #ffffffd9;
   border-radius: 1rem;
@@ -30,7 +30,7 @@ body {
   font-weight: 700;
 }
 
-/* Search Box Styles */
+/* Search Styles */
 .search-form {
   display: flex;
   justify-content: center;
@@ -75,7 +75,7 @@ body {
   margin-bottom: 1.2rem;
 }
 
-/* Temp Styles */
+/* Temperature Styles */
 .temp {
   font-size: 3rem;
   font-weight: 600;
@@ -103,7 +103,7 @@ body {
   margin-right: 0.5rem;
 }
 
-/* Weather Info Styles*/
+/* Weather Info Styles */
 .weather-info {
   display: flex;
   justify-content: space-around;
@@ -112,14 +112,15 @@ body {
   padding: 0.5rem;
 }
 
+.mid-line {
+  border-right: 1.5px solid #b9b9b9;
+}
+
+/* Humidity & Wind Speed Styles */
 .humidity,
 .wind-speed {
   font-size: 1rem;
   color: #333;
-}
-
-.mid-line {
-  border-right: 1.5px solid #b9b9b9;
 }
 
 .humidity span,
@@ -129,13 +130,13 @@ body {
   color: #2196f3;
 }
 
-/* Loading Styles*/
+/* Loading Styles */
 .loading {
   font-size: 1.2rem;
   color: #ff5722;
 }
 
-/* Responsive Styles */
+/* Media Queries */
 @media (max-width: 400px) {
   .app {
     width: 90%;
