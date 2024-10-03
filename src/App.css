@@ -10,16 +10,18 @@ body {
   background: url("https://images.unsplash.com/photo-1496450681664-3df85efbd29f")
     no-repeat center;
   background-size: cover;
+  background-position: center;
+  overflow: hidden;
 }
 
 /* App Styles */
 .app {
+  margin: auto;
   padding: 2rem;
   width: 350px;
   background-color: #ffffffd9;
   border-radius: 1rem;
   text-align: center;
-  box-shadow: 3px 6px 8px rgba(0, 0, 0, 0.3);
 }
 
 /* App Heading Styles */
