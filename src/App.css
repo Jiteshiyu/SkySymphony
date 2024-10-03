@@ -44,7 +44,7 @@ body {
   font-size: 1rem;
   border: 1px solid #ddd;
   border-radius: 0.2rem;
-  margin-right: 0.5rem;
+  margin-right: 0.75rem;
 }
 
 /* Submit Btn Styles */
@@ -54,7 +54,7 @@ body {
   font-size: 1rem;
   padding: 0.5rem 1.2rem;
   border: none;
-  border-radius: 1.2rem;
+  border-radius: 0.35rem;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
