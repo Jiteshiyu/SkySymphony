@@ -22,7 +22,7 @@ This is a weather app built with React.js that allows users to get current weath
 
 ## Demo
 
-You can view a live demo of the project [here](https://skysymphony.netlify.app/).
+You can view a live demo of the project [SkySymphony](https://skysymphony.netlify.app/).
 
 ## Features
 
