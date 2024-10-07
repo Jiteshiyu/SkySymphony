@@ -1,6 +1,6 @@
 # SkySymphony
 
-This is a weather app built with React.js that allows users to get current weather data for any city in the world.
+This is a weather app that allows users to get current weather data for any city in the world.
 
 ![React](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=white)
 ![JSX](https://img.shields.io/badge/JSX-React%20Component-informational?style=for-the-badge&logo=react)
