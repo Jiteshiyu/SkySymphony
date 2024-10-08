@@ -103,8 +103,8 @@ If you liked the project, give it a 🌟 on the repo!
 
 Connect with me:
 
-[![Github](https://img.shields.io/badge/-FOLLOW-BLACK?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiteshiyu)
+[![Github](https://img.shields.io/badge/-FOLLOW-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiteshiyu)
 [![LinkedIn](https://img.shields.io/badge/-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiteshkumar9)
-[![Jiteshiyu](https://img.shields.io/badge/-VISIT-ORANGE?style=for-the-badge&logo=react&logoColor=white)](https://jiteshiyu.netlify.app)
+[![Jiteshiyu](https://img.shields.io/badge/-VISIT-F17829?style=for-the-badge&logo=react&logoColor=white)](https://jiteshiyu.netlify.app)
 
 
