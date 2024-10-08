@@ -105,6 +105,6 @@ Connect with me:
 
 [![Github](https://img.shields.io/badge/-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jiteshiyu)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiteshkumar9)
-[![Jiteshiyu](https://img.shields.io/badge/-JITESHIYU-FFA500?style=for-the-badge&logo=react&logoColor=black)](https://jiteshiyu.netlify.app)
+[![Jiteshiyu](https://img.shields.io/badge/-JITESHIYU-FF8C00?style=for-the-badge&logo=react&logoColor=black)](https://jiteshiyu.netlify.app)
 
 
